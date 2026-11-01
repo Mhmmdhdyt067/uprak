@@ -1,0 +1,6 @@
+{
+  "name": "Practical Coding Examination System",
+  "description": "Real-time practical coding examination platform for C++ algorithms with automated testing, live monitoring, and academic administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
